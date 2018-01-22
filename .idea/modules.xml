@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StuManager.iml" filepath="$PROJECT_DIR$/StuManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu-dao/stu-dao.iml" filepath="$PROJECT_DIR$/stu-dao/stu-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu-entity/stu-entity.iml" filepath="$PROJECT_DIR$/stu-entity/stu-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu-service/stu-service.iml" filepath="$PROJECT_DIR$/stu-service/stu-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu-util/stu-util.iml" filepath="$PROJECT_DIR$/stu-util/stu-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stu-web/stu-web.iml" filepath="$PROJECT_DIR$/stu-web/stu-web.iml" />
+    </modules>
+  </component>
+</project>
